@@ -6,6 +6,9 @@ Task Manager es una aplicación de gestión de tareas que te ayuda a organizar y
 
 Puedes ver una demostración en vivo de la aplicación [aquí](https://transporto-omega.vercel.app/).
 
+
+![image](https://github.com/maicolortz/transporto/assets/107804493/a5e8ccf9-83b6-4895-9949-0c2862a51d8f)
+
 ## Características
 
 - Crea tareas y sub tareas
